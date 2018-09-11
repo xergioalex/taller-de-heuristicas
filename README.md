@@ -1,2 +1,3 @@
-# taller-de-heuristicas
-Taller de heurísticas
+# Taller de heurísticas en Python
+
+Ver: [Taller de heurísticas](TallerdeHeuristicas.ipynb)
